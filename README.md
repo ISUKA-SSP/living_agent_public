@@ -250,3 +250,12 @@ Living Agent は、便利なAIを作るためだけのプロジェクトでは�
 ステラとシリカがどうなるかは、作者にも分かりません。
 
 もしあなたの環境で作者の知らない2人になったなら、それはかなり嬉しい結果です。
+
+---
+
+このREADMEでは、現在動いているLiving Agentの概要だけを説明しています。
+
+「なぜこうなったのか」「何を試して、何をやめたのか」については、
+実験・観察記録として別Repositoryに残しています。
+
+- [Living Agent Experiments](https://github.com/ISUKA-SSP/living_agent_experiments)
