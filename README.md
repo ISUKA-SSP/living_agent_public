@@ -151,7 +151,7 @@ $env:GEMINI_API_KEY="YOUR_API_KEY"
 
 ---
 
-Gemini APIについて
+## Gemini APIについて
 
 Gemini 3.5 Flash-Liteには無料枠があり、本アプリも無料枠の範囲で試すことができます。
 
