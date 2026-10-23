@@ -6,6 +6,22 @@
 
 **Windows向け。Pythonのインストールは不要です。APIキーなしの固定デモから試せます。**
 
+## 画面の紹介
+
+### 部屋モード
+
+リビングの二人を眺めながら、PC越しに話しかけられます。
+
+![部屋モード：ソファに座るシリカとステラ、発言と入力欄](docs/images/room-mode.png)
+
+*固定デモの表示例です。*
+
+### 窓辺モード（SD表示）
+
+二人をデスクトップの好きな位置へ置けます。入力欄や履歴は必要なときに開けます。
+
+<img src="docs/images/desktop-sd-mode.png" alt="窓辺モードのSD表示：独立した二人と吹き出し、入力欄" width="518">
+
 ## ダウンロード・起動
 
 **[配布ZIPとリリース説明はこちら](https://github.com/ISUKA-SSP/living_agent_public/releases)**
